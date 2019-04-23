@@ -1,1 +1,1 @@
-# Simple API to handle a CRUD of products, write in node.js
+# Simple API to handle a CRUD of products, written in node.js
